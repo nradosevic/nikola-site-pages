@@ -1,0 +1,17 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="10" y1="46" x2="50" y2="16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5a524"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#14141a"/>
+  <!-- base -->
+  <path d="M14 50 L50 50 L46 55 L18 55 Z" fill="#ffffff" opacity="0.16"/>
+  <circle cx="22" cy="51" r="3.4" fill="#ffffff" opacity="0.32"/>
+  <circle cx="42" cy="51" r="3.4" fill="#ffffff" opacity="0.32"/>
+  <!-- throwing arm -->
+  <rect x="16" y="40" width="34" height="6" rx="3" fill="url(#g)" transform="rotate(-24 33 43)"/>
+  <!-- projectile -->
+  <circle cx="17" cy="21" r="7.5" fill="url(#g)"/>
+</svg>
