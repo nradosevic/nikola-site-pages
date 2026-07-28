@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <line x1="50" y1="8" x2="14" y2="56" stroke="#ff5d49" stroke-width="3"/>
+  <text x="14" y="46" font-family="serif" font-style="italic" font-size="40" fill="#EDEDED">X</text>
+</svg>
