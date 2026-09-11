@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none" role="img" aria-label="Elwen">
+  <!-- Elwen mark: three stacked bars reading as an E, and as layers being
+       built up. Deliberately the opposite gesture to the old X — horizontal
+       and constructive rather than crossed and sharp. The short middle bar
+       carries the violet accent so the mark still has one point of interest
+       at 16px, where a single flat colour would go dead. -->
+  <rect x="4" y="5" width="24" height="5.6" rx="2.4" fill="#E9A33C"/>
+  <rect x="4" y="13.2" width="15" height="5.6" rx="2.4" fill="#7F4FE3"/>
+  <rect x="4" y="21.4" width="24" height="5.6" rx="2.4" fill="#E9A33C"/>
+</svg>
